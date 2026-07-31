@@ -1,4 +1,4 @@
-# Hi, I'm Wayne Park 👋
+# Hi, I'm Hyungtae(Wayne) Park 👋
 
 Senior Software Engineer
 
