@@ -12,6 +12,7 @@ I build scalable software platforms, real-time systems, and simulation applicati
 - Real-Time Systems
 - Modern C++
 - Developer Tools
+- Game/Unity/Unreal
 
 ## Featured Projects
 
