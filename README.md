@@ -1,51 +1,31 @@
-# Hi, I'm Hyungtae(Wayne) Park 👋
+# Hi, I'm Hyungtae (Wayne) Park 👋
 
-Senior Software Engineer
+Senior Software Engineer with 16+ years of experience in real-time applications, simulation, platform development, and interactive systems.
 
-I build scalable software platforms, real-time systems, and simulation applications using C++, Unity, and modern engineering practices.
+Currently expanding into **manufacturing software, factory automation, and industrial simulation**, applying my software engineering background to equipment monitoring, data systems, and automation workflows.
 
 ## Areas of Interest
 
-- Platform Engineering
-- Simulation
+- Manufacturing & Factory Automation Software
+- Simulation / Digital Twin
 - Robotics
 - Real-Time Systems
-- Modern C++
-- Developer Tools
-- Game/Unity/Unreal
+- Platform & SDK Development
+- Modern C++ / C# / Python
 
 ## Featured Projects
 
+### Factory Equipment Monitor
+Python + PostgreSQL + Docker + Streamlit
+
+Simulated manufacturing equipment monitoring system with production metrics, sensor trends, alarms, SQL analysis, and rolling cycle-time monitoring.
+
 ### SimCore
-Modern C++ framework
-
-- CMake
-- GoogleTest
-- GitHub Actions
-- Docker
-
----
-
-### Robot Simulator *(Coming Soon)*
-
-Unity-based robotics simulator
-
-- Navigation
-- Multi-Agent Systems
-- Fleet Management
-
----
+Modern C++ framework demonstrating modular architecture, CMake, GoogleTest, Docker, and GitHub Actions.
 
 ### Multiverse Idle Miner
-
-Commercial Unity game with cloud-driven architecture.
+Commercial Unity project featuring modular game architecture, cloud services, analytics, and live production systems.
 
 ## Tech
 
-C++
-C#
-Unity
-TypeScript
-Docker
-GitHub Actions
-CI/CD
+C++ · C# · Python · SQL · Unity · PostgreSQL · Docker · GitHub Actions · ROS2
